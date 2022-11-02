@@ -1,0 +1,19 @@
+header{background-color: rgb(22, 109, 241)}
+body {background-color: rgb(231, 199, 138);}
+font{src:PT_Serif}
+body{font-family:'Fasthand',cursive;}
+h1{color:rgb(89, 57, 248);} 
+class3{color:greenyellow;}
+class {color:red;}
+class1 {color: blue}
+class2 {color:black}
+
+footer{background-color: rgb(22, 109, 241);}
+
+#col {column-count: 2;}
+#sidecol {column-count: 3;}
+#col1 {column-count:4}
+h1 {text-decoration: underline red;}
+class2 {text-decoration: underline black;}
+class4 {text-decoration: underline black;}
+h2 {text-decoration: underline red;}

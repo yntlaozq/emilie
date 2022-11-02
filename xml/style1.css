@@ -1,0 +1,153 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Pridi:wght@600&display=swap');
+
+
+
+ body{
+    background-color:#51E0F6; 
+}
+ .page{
+    width: 900px;
+    margin:auto;
+    background-color:#51E0F6; 
+}
+.entete{
+    height: 150px;
+    background: linear-gradient(90deg, #E099FF, #763791);
+}
+.colonnes {
+    background-color: #C5F5FC;
+   
+    
+}
+.colonne_menu{
+    float:left;
+    width:125px;
+    height:100%;
+    background-color: #C5F5FC;
+}
+.colonne_contenu {
+    margin-left:125px;
+    background: linear-gradient(90deg, #E099FF, #763791);
+}
+.pieddepage{
+    height:50px;
+    background-color: #E099FF;
+}
+h1 {
+    
+    font-family: Francois One, bold;
+    text-align: center;
+    color: #b3265a;
+    
+
+} 
+h2 {
+    
+    font-family: Francois One, bold;
+    text-align: center;
+    color: #3b0a1c;
+    
+}
+#col1 {
+    column-count: 2;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    border-radius: 3em;
+    border: 5px solid #c24cf5;
+    background-color:rgba(27, 220, 254, 0.333);
+    margin:auto;
+    padding: 1.5em;
+}
+
+
+.class1 {
+    background-color:#E099FF;
+}
+
+
+
+ #arrondi {
+    border-radius: 3em;
+    border: 5px solid #c24cf5;
+    background-color:rgba(27, 220, 254, 0.333);
+    margin:auto;
+    padding: 1.5em;
+}
+
+.survol:hover { color: rgb(184, 0, 175);
+            border-radius: 5%;    
+            border: 0.25em solid rgb(184, 0, 175);
+            padding: 0.25em; 
+    
+} 
+
+.survol {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    padding-top: 1.5em;
+}
+
+#decalage {
+
+padding-left: 1.5em;
+padding-right: 1.5em;
+}
+
+
+#col2 {
+    column-count: 2;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    border-radius: 3em;
+    border: 5px solid #c24cf5;
+    background-color:rgba(27, 220, 254, 0.333);
+    margin:auto;
+    padding: 1.5em;
+}
+
+#col3 {
+    column-count: 2;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    border-radius: 3em;
+    border: 5px solid #c24cf5;
+    background-color:rgba(27, 220, 254, 0.333);
+    margin:auto;
+    padding: 1.5em;
+}
+iframe {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    padding-top: 1.5em;
+    
+}
+
+#col4 {
+    column-count: 2;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    border-radius: 3em;
+    border: 5px solid #c24cf5;
+    background-color:rgba(27, 220, 254, 0.333);
+    margin:auto;
+    padding-left: 1.5em;
+}
+
+.pieddepage {
+    text-align: center;
+    margin-left: 12.45em;
+
+}
+
+p {
+    font-family: Lucida Sans, serif;
+}

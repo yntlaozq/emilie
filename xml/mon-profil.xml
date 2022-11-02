@@ -1,0 +1,20 @@
+<!--j'ai choisi de faire les hommes les plus importants dans ma vie aujourd'hui-->
+<my_loves>
+    <baby>
+        <name>gabriel</name>
+        <last_name>HILD</last_name>
+        <birth-date>5february2020</birth-date>
+        <city>Avignon</city>
+        <ability>run_break-everything_yell</ability>
+        <parents>my_best_friend_and_her_man</parents>
+    </baby>
+
+    <my_brother>
+        <name>Nico</name>
+        <age>20</age>
+        <birth_date>24_juillet_2002</birth_date>
+        <diploma>bac-stmg_permis</diploma>
+        <activity>travail_a_vitton_clope_depuis_3ans</activity>
+        <city>Lyon</city>
+    </my_brother>
+</my_loves>
